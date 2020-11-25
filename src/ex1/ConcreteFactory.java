@@ -1,3 +1,6 @@
+package ex1;
+
+
 public class ConcreteFactory implements AbstractFactory {
 
     @Override

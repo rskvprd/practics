@@ -1,3 +1,5 @@
+package ex1;
+
 public class Complex {
     public int image;
     public int real;
